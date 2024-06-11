@@ -1,0 +1,84 @@
+{
+    "projects": [
+        {
+            "title": "Settlers of Catan",
+            "description": "Clone of the board game 'The Settlers of Catan' using Python and Pygame. Group-based project in Agile environment.",
+            "tags": [
+                "Python", "PyGame"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/settlers-of-catan/main/screenshot.png",
+            "github": "https://github.com/TedAlden/settlers-of-catan",
+            "demo": ""
+        },
+        {
+            "title": "Antique Web App",
+            "description": "Simple web app for listing antiques and requesting evaluations. Implements cyber-security features such as 2FA, XSS and CSRF protection, ReCaptcha, password recovery services, and more.",
+            "tags": [
+                "Python", "Flask", "HTML", "CSS", "SQLite"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/antique-web-app/main/screenshot.png",
+            "github": "https://github.com/TedAlden/antique-web-app",
+            "demo": "https://lovejoy-antique-web-app.glitch.me"
+        },
+        {
+            "title": "Automaton Simulator",
+            "description": "Web app that allows users to construct automaton models and see a step-by-step visual simulation showing how it reads an input and either accepts it or rejects it.",
+            "tags": [
+                "HTML", "CSS", "JS", "JSPlumb"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/automaton-simulator/main/screenshot.png",
+            "github": "https://github.com/TedAlden/automaton-simulator",
+            "demo": "https://tedalden.github.io/automaton-simulator"
+        },
+        {
+            "title": "Coca Cola 3D App",
+            "description": "3D single-page web-application for viewing 3D models of Coca Cola drinks through different camera angles, animations, lighting systems, and rendering modes. MVC architecture using PHP, SQLite database and various external APIs.",
+            "tags": [
+                "HTML", "CSS", "JS", "PHP", "AJAX", "SQLite", "X3DOM"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/web-3d-applications/main/screenshot.png",
+            "github": "https://github.com/TedAlden/web-3d-applications",
+            "demo": "https://users.sussex.ac.uk/~epa22/3dapp/submission/index.php/mainPage"
+        },
+        {
+            "title": "Settlers of Catan",
+            "description": "Clone of the board game 'The Settlers of Catan' using Python and Pygame. Group-based project in Agile environment.",
+            "tags": [
+                "Python", "PyGame"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/settlers-of-catan/main/screenshot.png",
+            "github": "https://github.com/TedAlden/settlers-of-catan",
+            "demo": ""
+        },
+        {
+            "title": "Antique Web App",
+            "description": "Simple web app for listing antiques and requesting evaluations. Implements cyber-security features such as 2FA, XSS and CSRF protection, ReCaptcha, password recovery services, and more.",
+            "tags": [
+                "Python", "Flask", "HTML", "CSS", "SQLite"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/antique-web-app/main/screenshot.png",
+            "github": "https://github.com/TedAlden/antique-web-app",
+            "demo": "https://lovejoy-antique-web-app.glitch.me"
+        },
+        {
+            "title": "Automaton Simulator",
+            "description": "Web app that allows users to construct automaton models and see a step-by-step visual simulation showing how it reads an input and either accepts it or rejects it.",
+            "tags": [
+                "HTML", "CSS", "JS", "JSPlumb"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/automaton-simulator/main/screenshot.png",
+            "github": "https://github.com/TedAlden/automaton-simulator",
+            "demo": "https://tedalden.github.io/automaton-simulator"
+        },
+        {
+            "title": "Coca Cola 3D App",
+            "description": "3D single-page web-application for viewing 3D models of Coca Cola drinks through different camera angles, animations, lighting systems, and rendering modes. MVC architecture using PHP, SQLite database and various external APIs.",
+            "tags": [
+                "HTML", "CSS", "JS", "PHP", "AJAX", "SQLite", "X3DOM"
+            ],
+            "image": "https://raw.githubusercontent.com/TedAlden/web-3d-applications/main/screenshot.png",
+            "github": "https://github.com/TedAlden/web-3d-applications",
+            "demo": "https://users.sussex.ac.uk/~epa22/3dapp/submission/index.php/mainPage"
+        }
+    ]
+}
